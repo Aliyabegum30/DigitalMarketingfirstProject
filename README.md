@@ -6,7 +6,7 @@ The projects focus on *social media marketing and email marketing* for a small b
 
 ---
 
-## 📌 Minor Project – Social Media Marketing
+## Minor Project – Social Media Marketing
 
 ### Project Title  
 *Too Sweet Bakers – Instagram & Facebook Marketing*
