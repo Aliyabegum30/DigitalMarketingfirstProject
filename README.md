@@ -1,6 +1,4 @@
 # DigitalMarketingfirstProject
-# Digital Marketing – First Project
-
 This repository contains the *Minor and Major projects* completed as part of my Digital Marketing coursework.  
 The projects focus on *social media marketing and email marketing* for a small business brand.
 
